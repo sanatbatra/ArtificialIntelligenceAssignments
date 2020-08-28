@@ -1,0 +1,14 @@
+Assignment 2:-
+Input must be stored in a file called "input"
+Run the assignment2.py file.
+The solution is printed out.
+If there's no solution, "NO SOLUTION" is printed out.
+The frontend's output is stored in the file "front_end_output"
+Davis-Putnam's output is stored in the file "davis_putnam_output"
+
+Assignment 4:-
+Run the assignment4.py file -
+Example:
+python3 assignment4.py 500 100 -v
+You will need to have pandas installed which is used to read prog4Data.xlsx which is
+supposed to be in the same directory.
